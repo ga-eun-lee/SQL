@@ -157,7 +157,7 @@ having에 서브쿼리 넣어서 풀기
 countif -> 특정컬럼 조건 걸어서 세기 가능
 
 ## 2-7 정리
-![](images/week1_01.png)
+![](images/week2_01.png)
 having -> 집계함수와 함께 사용
 order by -> 정렬
 null -> 아무것도 없다.
