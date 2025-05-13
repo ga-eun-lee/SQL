@@ -123,3 +123,4 @@ key: 공통적으로 가지고 있는 컬럼
 
 ![](images/week5_08.png)
 
+![](images/week5_09.png)
